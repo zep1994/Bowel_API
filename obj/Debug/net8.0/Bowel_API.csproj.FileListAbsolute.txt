@@ -24,7 +24,6 @@
 /Users/paulmatlock/Development/Projects/Bowel_API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Bowel_API.props
 /Users/paulmatlock/Development/Projects/Bowel_API/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/paulmatlock/Development/Projects/Bowel_API/obj/Debug/net8.0/scopedcss/bundle/Bowel_API.styles.css
-/Users/paulmatlock/Development/Projects/Bowel_API/obj/Debug/net8.0/Bowel_API.csproj.CopyComplete
 /Users/paulmatlock/Development/Projects/Bowel_API/obj/Debug/net8.0/Bowel_API.dll
 /Users/paulmatlock/Development/Projects/Bowel_API/obj/Debug/net8.0/refint/Bowel_API.dll
 /Users/paulmatlock/Development/Projects/Bowel_API/obj/Debug/net8.0/Bowel_API.pdb
@@ -117,3 +116,4 @@
 /Users/paulmatlock/Development/Projects/Bowel_API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/paulmatlock/Development/Projects/Bowel_API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/paulmatlock/Development/Projects/Bowel_API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/paulmatlock/Development/Projects/Bowel_API/obj/Debug/net8.0/Bowel_API.csproj.Up2Date
